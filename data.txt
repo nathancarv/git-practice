@@ -1,0 +1,3 @@
+Name: Nate
+Age: 22
+Favorite color: Green
